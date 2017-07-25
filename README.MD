@@ -1,1 +1,1 @@
-###一些Kettle的小示例程序，每个文件夹下面都是单独的示例。run_main.kjb是每个示例的入口job.
+>一些Kettle的小示例程序，每个文件夹下面都是单独的示例。run_main.kjb或run_main.ktr是每个示例的入口
